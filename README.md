@@ -18,7 +18,7 @@ The day of the actuall appointment, when they have to visit the doctor.
 The day someone called or registered the appointment, this is before appointment of course.
 - Age
 How old is the patient.
-- Neighbourhood
+- Neighborhood
 (Where the appointment takes place.)
 - Scholarship
 (True of False . Observation, this is a broad topic, consider reading this article https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)
