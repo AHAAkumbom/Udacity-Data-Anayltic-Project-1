@@ -12,9 +12,9 @@ Identification of a patient
 Identification of each appointment
 - Gender
 Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man.
-- DataMarcacaoConsulta
+- Appointment date
 The day of the actuall appointment, when they have to visit the doctor.
-- DataAgendamento
+- DateAgreement
 The day someone called or registered the appointment, this is before appointment of course.
 - Age
 How old is the patient.
@@ -28,7 +28,7 @@ SMS_received
 - Hipertension
 - Diabetes
 - Alcoholism
-- Handcap
+- Handicap
 - No-show and Scholarship
 
 #### Insight 
